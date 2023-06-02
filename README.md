@@ -12,6 +12,6 @@ This game requires an Adafruit Playground Express, a micro-sub cable, and a work
 1. Make sure you have downloaded the Arduino IDE from https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE. 
 2. Download the yellGame.ino file and open it inside of the Arduino IDE. 
 3. Connect your Adafruit Circuit Playground Express to your computer via the micro-usb cable.
-4. Within the Arduino IDE, install the Adafruit Circuit Playground library using the "Library Manager" icon on the left side of the IDE. (It looks like books)
+4. Within the Arduino IDE, install the Adafruit Circuit Playground library using the "Library Manager" icon on the left side of the IDE (It looks like books.)
 5. Make sure that the Circuit Playground board is selected by checking near the top of the screen. 
 6. Press the upload button and enjoy the game!
