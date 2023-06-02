@@ -1,5 +1,5 @@
 # Yelling Game
-Oregon State University ENGR 103 Final Project
+Will Morton's Oregon State University ENGR 103 Final Project
 
 ## Description
 
@@ -15,3 +15,7 @@ This game requires an Adafruit Playground Express, a micro-sub cable, and a work
 4. Within the Arduino IDE, install the Adafruit Circuit Playground library using the "Library Manager" icon on the left side of the IDE (It looks like books.)
 5. Make sure that the Circuit Playground board is selected by checking near the top of the screen. 
 6. Press the upload button and enjoy the game!
+
+## Game Instructions
+
+(To be added)
