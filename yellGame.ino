@@ -338,8 +338,7 @@ void generateMIDI() {
 }
 
 void playPhrase(int a[][2], int size) {
-    // Step through 2D array, setting 
-    for(int i = 0; i < size; i++) // Calculate how many rows are in the array using: sizeof(song) / sizeof(song[0])
+    for(int i = 0; i < size; i++)
     {
       CircuitPlayground.playTone(midi[a[i][0]], a[i][1]);
       Serial.println(midi[a[i][0]]);
