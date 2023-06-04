@@ -338,8 +338,7 @@ void generateMIDI() {
 }
 
 void playPhrase(int a[][2], int size) {
-    for(int i = 0; i < size; i++)
-    {
+    for(int i = 0; i < size; i++) {
       CircuitPlayground.playTone(midi[a[i][0]], a[i][1]);
       Serial.println(midi[a[i][0]]);
       delay(1);
