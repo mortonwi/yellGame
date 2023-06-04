@@ -23,5 +23,7 @@ This game requires an Adafruit Playground Express, a Micro-USB cable, and a work
 ## Material Links
 
 Arduino IDE: https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE.
+
 Adafruit Circuit Playground Express: https://www.adafruit.com/product/3333.
+
 Micro-USB cable: https://www.amazon.com/Charging-Transfer-Android-Trustable-MYFON/dp/B098DW7485/ref=sr_1_3?keywords=micro+usb+cable&qid=1685849370&sr=8-3.
