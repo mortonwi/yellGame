@@ -1,4 +1,4 @@
-# Yelling Game
+# The Yelling Game
 Will Morton's Oregon State University ENGR 103 Final Project
 
 ## Description
