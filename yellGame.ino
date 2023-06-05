@@ -124,6 +124,7 @@ void multiplayer() {
       aLose();
     }
     aFlag = 0;
+    bFlag = 0;
   } else if (bFlag) {
     rSG();
     int bPlayerLevel;
@@ -170,6 +171,7 @@ void multiplayer() {
       aLose();
     }
     bFlag = 0;
+    aFlag = 0;
   } else {
     Serial.println("Waiting");
   }
