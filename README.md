@@ -20,34 +20,34 @@ This game requires an Adafruit Playground Express, a Micro-USB cable, and a work
 
 ### Helpful Notes
 
-For each of the modes, the Circuit Playground Express board should be held with the Micro-USB port at the top so that the text is readable.
-To change between modes, flip the switch near the bottom of the Circuit Playground Express board. 
+- For each of the modes, the Circuit Playground Express board should be held with the Micro-USB port at the top so that the text is readable.
+- To change between modes, flip the switch near the bottom of the Circuit Playground Express board. 
 
 ### Singleplayer
 
 The singleplayer game mode is designed to test a players yelling ability (to an extent). 
-This game mode starts out by flashing a green LED 4 times, this is the target noise level for the player to hit. 
-These target noise levels range from the LED on the left of the Micro-USB port (quietest) to the LED on the right side of the Micro-USB port (loudest). 
-After the green LED flashes, all of the LEDs will flash red, then yellow, and then finally green. This is a 'Ready Set Go' indicator. 
-After the 'Ready Set Go' color pattern, the player has a few seconds to create enough noise to reach the target. Be careful to not go over the target!
-If the player reaches the target without going over, the LEDs will all flash green and a nice sound will play. This indicates that the player succeeded. 
-If the player doesn't reach the target or they exceed the target noise level, the LEDs will flash red and a bad sound will play. This indicates that the player failed. 
-After either suceeding or failing, the game will restart and select a new target level for the player to reach.
-After each round, the player can also change to mulitplayer by changing the switch direction. 
+- This game mode starts out by flashing a green LED 4 times, this is the target noise level for the player to hit. 
+- These target noise levels range from the LED on the left of the Micro-USB port (quietest) to the LED on the right side of the Micro-USB port (loudest). 
+- After the green LED flashes, all of the LEDs will flash red, then yellow, and then finally green. This is a 'Ready Set Go' indicator. 
+- After the 'Ready Set Go' color pattern, the player has a few seconds to create enough noise to reach the target. Be careful to not go over the target!
+- If the player reaches the target without going over, the LEDs will all flash green and a nice sound will play. This indicates that the player succeeded. 
+- If the player doesn't reach the target or they exceed the target noise level, the LEDs will flash red and a bad sound will play. This indicates that the player failed. 
+- After either suceeding or failing, the game will restart and select a new target level for the player to reach.
+- After each round, the player can also change to mulitplayer by changing the switch direction. 
 
 ### Multiplayer
 
 The multiplayer game mode pits two players against each other in a contest to see who is the loudest.
 This game mode uses the two buttons on the Circuit Playground Express. One is labeled as A and the other is B.
-To start, make sure the switch is in the 'Multiplayer' diraction. 
-Each player should then pick a button that they will be (either A or B). 
-Then the players will determine who will go first (Rock, Paper, Scissors is a good option to determine this). 
-The player that is going first will press their button. This will start a 'Ready Set Go' color pattern. 
-After the 'Ready Set Go' color pattern, the player has 4 seconds to make as much noise as possible. 
-Their score will then be displayed in a very similar fashion to the singleplayer target indication. 
-Then the second player will press their button and make as much noise as possible after the 'Read Set Go' sequence. 
-After both players have had their 'turn' the game will determine who won by displaying red LEDs on the players side who lost and green LEDs on the players side who won. 
-After the game end sequence, the multiplayer mode will restart. Players can also switch to the singleplayer mode at this time.
+- To start, make sure the switch is in the 'Multiplayer' diraction. 
+- Each player should then pick a button that they will be (either A or B). 
+- Then the players will determine who will go first (Rock, Paper, Scissors is a good option to determine this). 
+- The player that is going first will press their button. This will start a 'Ready Set Go' color pattern. 
+- After the 'Ready Set Go' color pattern, the player has 4 seconds to make as much noise as possible. 
+- Their score will then be displayed in a very similar fashion to the singleplayer target indication. 
+- Then the second player will press their button and make as much noise as possible after the 'Read Set Go' sequence. 
+- After both players have had their 'turn' the game will determine who won by displaying red LEDs on the players side who lost and green LEDs on the players side who won. 
+- After the game end sequence, the multiplayer mode will restart. Players can also switch to the singleplayer mode at this time.
 
 ## Material Links
 
