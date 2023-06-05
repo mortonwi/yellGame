@@ -332,6 +332,7 @@ void rSG() {
   CircuitPlayground.clearPixels();
 }
 
+// Adapted from https://subsynth.sourceforge.net/midinote2freq.html
 void generateMIDI() {
   for (int x = 0; x < 127; ++x) {
     midi[x] = (A_four / 32.0) * pow(2.0, ((x - 9.0) / 12.0));
@@ -339,6 +340,7 @@ void generateMIDI() {
   }
 }
 
+// Adapted from Chet Udell, 2023, Remix of Brian Eno's Music for Airports
 void playPhrase(int a[][2], int size) {
     for(int i = 0; i < size; i++) {
       CircuitPlayground.playTone(midi[a[i][0]], a[i][1]);
