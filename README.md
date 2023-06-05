@@ -41,7 +41,7 @@ The multiplayer game mode pits two players against each other in a contest to se
 This game mode uses the two buttons on the Circuit Playground Express. One is labeled as A and the other is B.
 - To start, make sure the switch is in the 'Multiplayer' direction. 
 - Each player should then pick a button that they will be (either A or B). 
-- Then the players will determine who will go first (Rock, Paper, Scissors is a good option to determine this). 
+- Then the players will determine who will go first (Rock, Paper, Scissors is a good way to decide this). 
 - The player that is going first will press their button. This will start a 'Ready Set Go' color pattern. 
 - After the 'Ready Set Go' color pattern, the player has 4 seconds to make as much noise as possible. 
 - Their score will then be displayed in a very similar fashion to the singleplayer target indication. 
