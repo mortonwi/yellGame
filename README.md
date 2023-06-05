@@ -39,7 +39,7 @@ The singleplayer game mode is designed to test a players yelling ability (to an 
 
 The multiplayer game mode pits two players against each other in a contest to see who is the loudest!
 This game mode uses the two buttons on the Circuit Playground Express. One is labeled as A and the other is B.
-- To start, make sure the switch is in the 'Multiplayer' diraction. 
+- To start, make sure the switch is in the 'Multiplayer' direction. 
 - Each player should then pick a button that they will be (either A or B). 
 - Then the players will determine who will go first (Rock, Paper, Scissors is a good option to determine this). 
 - The player that is going first will press their button. This will start a 'Ready Set Go' color pattern. 
