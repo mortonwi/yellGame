@@ -45,7 +45,7 @@ This game mode uses the two buttons on the Circuit Playground Express. One is la
 - The player that is going first will press their button. This will start a 'Ready Set Go' color pattern. 
 - After the 'Ready Set Go' color pattern, the player has 4 seconds to make as much noise as possible. 
 - Their score will then be displayed in a very similar fashion to the singleplayer target indication. 
-- Then the second player will press their button and make as much noise as possible after the 'Read Set Go' sequence. 
+- Then the second player will wait for 4 seconds and make as much noise as possible after the 'Read Set Go' sequence. 
 - After both players have had their 'turn' the game will determine who won by displaying red LEDs on the players side who lost and green LEDs on the players side who won. 
 - After the game end sequence, the multiplayer mode will restart. Players can also switch to the singleplayer mode at this time.
 
