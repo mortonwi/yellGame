@@ -21,7 +21,7 @@ This game requires an Adafruit Playground Express, a Micro-USB cable, and a work
 ### Helpful Notes
 
 - For each of the modes, the Circuit Playground Express board should be held with the Micro-USB port at the top so that the text is readable.
-- To change between modes, flip the switch near the bottom of the Circuit Playground Express board. 
+- To change between modes, flip the switch near the bottom of the Circuit Playground Express board. Singleplayer is left and multiplayer is right.
 
 ### Singleplayer
 
@@ -39,7 +39,7 @@ The singleplayer game mode is designed to test a players yelling ability (to an 
 
 The multiplayer game mode pits two players against each other in a contest to see who is the loudest!
 This game mode uses the two buttons on the Circuit Playground Express. One is labeled as A and the other is B.
-- To start, make sure the switch is in the 'Multiplayer' direction. 
+- To start, make sure the switch is in the 'Multiplayer' direction (right). 
 - Each player should then pick a button that they will be (either A or B). 
 - Then the players will determine who will go first (Rock, Paper, Scissors is a good way to decide this). 
 - The player that is going first will press their button. This will start a 'Ready Set Go' color pattern. 
